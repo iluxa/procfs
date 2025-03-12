@@ -21,7 +21,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/prometheus/procfs/internal/util"
+	"github.com/iluxa/procfs/internal/util"
 )
 
 const watchdogClassPath = "class/watchdog"

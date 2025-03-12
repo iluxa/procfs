@@ -20,7 +20,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/prometheus/procfs/internal/util"
+	"github.com/iluxa/procfs/internal/util"
 )
 
 // CgroupSummary models one line from /proc/cgroups.

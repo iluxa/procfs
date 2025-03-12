@@ -1,4 +1,4 @@
-module github.com/prometheus/procfs
+module github.com/iluxa/procfs
 
 go 1.21
 

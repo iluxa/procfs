@@ -22,7 +22,7 @@
 //		"fmt"
 //		"log"
 //
-//		"github.com/prometheus/procfs"
+//		"github.com/iluxa/procfs"
 //	)
 //
 //	func main() {

@@ -14,7 +14,7 @@
 package procfs
 
 import (
-	"github.com/prometheus/procfs/internal/fs"
+	"github.com/iluxa/procfs/internal/fs"
 )
 
 // FS represents the pseudo-filesystem sys, which provides an interface to
